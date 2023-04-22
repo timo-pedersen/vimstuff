@@ -1,0 +1,24 @@
+[submodule "util/start/NERDTree"]
+	path = util/start/NERDTree
+	url = https://github.com/preservim/nerdtree.git
+[submodule "looks/start/colorschemes"]
+	path = looks/start/colorschemes
+	url = https://github.com/vim/colorschemes.git
+[submodule "looks/start/gruvbox"]
+	path = looks/start/gruvbox
+	url = https://github.com/morhetz/gruvbox.git
+[submodule "looks/start/vim-airline"]
+	path = looks/start/vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "looks/start/vim-airline-themes"]
+	path = looks/start/vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "looks/start/rainbow"]
+	path = looks/start/rainbow
+	url = https://github.com/luochen1990/rainbow.git
+[submodule "tpope/start/vim-fugitive"]
+	path = tpope/start/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive.git
+[submodule "misc/fonts"]
+	path = misc/fonts
+	url = https://github.com/powerline/fonts.git
