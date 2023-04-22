@@ -25,3 +25,6 @@
 [submodule "util/start/fzf"]
 	path = util/start/fzf
 	url = https://github.com/junegunn/fzf.git
+[submodule "util/start/fzf.vim"]
+	path = util/start/fzf.vim
+	url = https://github.com/junegunn/fzf.vim.git
