@@ -22,6 +22,3 @@
 [submodule "misc/fonts"]
 	path = misc/fonts
 	url = https://github.com/powerline/fonts.git
-[submodule "util/start/fzf.vim"]
-	path = util/start/fzf.vim
-	url = https://github.com/junegunn/fzf.vim.git
